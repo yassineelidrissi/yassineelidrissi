@@ -3,7 +3,7 @@
 #### I am Yassine El Idrissi and I am a Full stack Developer <a href="https://stars.github.com/">GitHub Star 🌟</a>
 
 <!-- <img src="https://github.com/yassineelidrissi/yassineelidrissi/blob/master/gh-header-image-cropped.jpg"> -->
-<center><img src="./tirex.gif"/></center>
+<!-- <center><img src="./tirex.gif"/></center> -->
 
 ![Profile Views](https://gpvc.arturio.dev/yassineelidrissi) <a href="https://github.com/yassineelidrissi"><img src="https://img.shields.io/github/followers/yassineelidrissi?label=Follow&style=social"></a>
 
