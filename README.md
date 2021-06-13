@@ -5,7 +5,7 @@
 <!-- <img src="https://github.com/yassineelidrissi/yassineelidrissi/blob/master/gh-header-image-cropped.jpg"> -->
 <!-- <center><img src="./tirex.gif"/></center> -->
 
-![Profile Views](https://gpvc.arturio.dev/yassineelidrissi) <a href="https://github.com/yassineelidrissi"><img src="https://img.shields.io/github/followers/yassineelidrissi?label=Follow&style=social"></a>
+![Profile Views](https://gpvc.arturio.dev/yassineelidrissi) <a href="https://github.com/yassineelidrissi"></a>
 
 <a href="https://github.com/yassineelidrissi?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineelidrissi&theme=dark"/>
