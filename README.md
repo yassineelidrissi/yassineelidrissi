@@ -1,3 +1,4 @@
+![Header](img/header.svg)
 ### Hi there 👋
 
 #### I am Yassine El Idrissi and I am a Full stack Developer <a href="https://stars.github.com/">GitHub Star 🌟</a>
