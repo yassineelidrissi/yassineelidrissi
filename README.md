@@ -14,8 +14,16 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yassineelidrissi&line_height=40&show_icons=true&theme=dark">
 </a>
 
-<!--
-**yassineelidrissi/yassineelidrissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+
+<a href="https://github.com/yassineelidrissi/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yassineelidrissi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
+<!-- **yassineelidrissi/yassineelidrissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -26,5 +34,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
