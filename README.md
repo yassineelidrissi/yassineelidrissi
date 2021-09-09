@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/yassineelidrissi/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yassineelidrissi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img src="https://activity-graph.herokuapp.com/graph?username=yassineelidrissi&theme=github" alt="yassineelidrissi's github activity graph"/>
 
 <br/>
 <br/>
