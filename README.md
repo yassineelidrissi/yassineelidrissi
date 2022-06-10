@@ -6,7 +6,7 @@
 
 <a href="https://github.com/yassineelidrissi"><img src="https://img.shields.io/github/followers/yassineelidrissi?label=Follow&style=social"></a>
 
-<a href="https://github.com/yassineelidrissi?tab=repositories">
+<!-- <a href="https://github.com/yassineelidrissi?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineelidrissi&theme=dark"/>
 </a>
 
@@ -23,7 +23,7 @@
 <br/>
 
 
-<!-- **yassineelidrissi/yassineelidrissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **yassineelidrissi/yassineelidrissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --> 
 
